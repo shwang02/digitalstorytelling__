@@ -1,0 +1,26 @@
+h1 {
+    color:pink;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border:10px solid red;
+    padding:50px;
+}
+
+p {
+    color:plum;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2 {color: lavender;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+background-color:beige;
+}
+
+img{
+    border:10px solid green;
+    width:25%;
+    height:25%;
+    margin-left:100px;
+}
